@@ -1258,6 +1258,7 @@
         <members>WorkTypeGroup.OwnerId</members>
         <members>WorkTypeGroupMember.WorkTypeGroupId</members>
         <members>WorkTypeGroupMember.WorkTypeId</members>
+        <members>test_sfdx__c.SFDXlabel__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -1385,6 +1386,7 @@
         <members>WorkType</members>
         <members>WorkTypeGroup</members>
         <members>WorkTypeGroupMember</members>
+        <members>test_sfdx__c</members>
         <name>CustomObject</name>
     </types>
     <types>
