@@ -1370,6 +1370,7 @@
         <members>ServiceTerritory</members>
         <members>ServiceTerritoryMember</members>
         <members>ServiceTerritoryWorkType</members>
+        <members>Session_Date__c</members>
         <members>Site</members>
         <members>SkillRequirement</members>
         <members>SocialPersona</members>
